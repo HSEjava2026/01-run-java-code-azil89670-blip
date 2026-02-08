@@ -14,7 +14,6 @@ Thumbs.db
 *.ear
 
 # Папки
-out/
 bin/
 target/
 build/
@@ -26,3 +25,4 @@ build/
 *.iml
 *.ipr
 *.iws
+
